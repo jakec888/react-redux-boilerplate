@@ -1,4 +1,4 @@
-import {SAMPLE} from '../actions/sample.actions';
+import {SAMPLE} from '../types/sample.types';
 
 const initialState = {
   sample: 'This is a sample',
