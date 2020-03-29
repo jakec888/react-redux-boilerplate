@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Redux](https://redux.js.org/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [Redux](https://redux.js.org/), and [Bootstrap](https://react-bootstrap.github.io/).
 
 ## Available Scripts
 
